@@ -2,3 +2,24 @@
     background-color: green;
     margin: 0px 18rem;
 }
+
+.bg-middle1{
+    background-color: darkgreen;
+    margin: 0px 18rem;
+}
+
+.difcolor{
+    color: gainsboro;
+}
+
+p{
+    font-weight:bold;
+}
+
+h1{
+    font-weight: bolder;
+}
+
+h2{
+    font-weight: bolder;
+}
